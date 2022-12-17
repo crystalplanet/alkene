@@ -1,6 +1,4 @@
 # Alkene
-Universal key stabilizer for low profile keyboards.
-
 This is a stab (pun intended) at creating a universal stabilizer model for low-profile keyboards.
 
 ![Stabilizer](img/stabilizer.png)
